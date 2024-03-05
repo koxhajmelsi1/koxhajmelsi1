@@ -5,6 +5,8 @@
 
 <h3 align="center">I am a web developer from  ALB </h3>
 
+</br>
+
 <div align="center">
  
  🔭 I’m currently working on **a AI CHATBOT**
@@ -15,11 +17,15 @@
 
  </div>
 
+ </br>
+
  <div align="center"> 
   <a href="mailto:koxhajmelsi1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
  </div>
+
+ </br>
 
  <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,react,mysql,wordpress,figma,typescript,nodejs,python,pycharm" />
