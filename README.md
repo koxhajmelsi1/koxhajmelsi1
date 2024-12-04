@@ -3,13 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melsi+Koxhaj!;" />
 </h1>
 
-<h3 align="center">I am a web developer from  ALB </h3>
-
-</br>
 
 <div align="center">
  
-  <h1>About Me</h1>
+  <h3>About Me</h3>
 👋 Hi, I'm Melsi! <br> 
 I'm passionate about creating intuitive and visually appealing websites.<br>  
 🌱 Currently focused on improving my frontend skills and learning advanced React concepts. <br> 
@@ -21,7 +18,7 @@ I'm passionate about creating intuitive and visually appealing websites.<br>
  </br>
 
  <div align="center"> 
-   <h1>Technologies & Tools</h1>
+   <h3>Technologies & Tools</h3>
      
 - 🌐 Frontend: HTML5, CSS3, JavaScript, React  <br> 
 - 🛠️ Backend: Node.js, PHP  <br>
