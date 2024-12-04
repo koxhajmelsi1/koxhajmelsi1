@@ -7,7 +7,7 @@
 
 <div align="center">
  
-  <h3>About Me</h3>
+  <h1>About Me</h1>
 👋 Hi, I'm Melsi! <br/> 
 I'm passionate about creating intuitive and visually appealing websites.<br/>  
 🌱 Currently focused on improving my frontend skills and learning advanced React concepts. <br/> 
@@ -21,7 +21,7 @@ I'm passionate about creating intuitive and visually appealing websites.<br/>
   <hr/>
 
  <div align="center"> 
-   <h3>Technologies & Tools</h3>
+   <h1>Technologies & Tools</h1>
      
 - 🌐 Frontend: HTML5, CSS3, JavaScript, React  <br> 
 - 🛠️ Backend: Node.js, PHP  <br>
