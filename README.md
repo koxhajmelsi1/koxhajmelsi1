@@ -15,7 +15,7 @@ I'm passionate about creating intuitive and visually appealing websites.<br>
 
  </div>
 
- </br>
+
 
  <div align="center"> 
    <h3>Technologies & Tools</h3>
