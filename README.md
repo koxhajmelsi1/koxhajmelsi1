@@ -10,9 +10,9 @@
 <div align="center">
  
   <h1>About Me</h1>
-👋 Hi, I'm Melsi!  
-I'm passionate about creating intuitive and visually appealing websites.  
-🌱 Currently focused on improving my frontend skills and learning advanced React concepts.  
+👋 Hi, I'm Melsi! <br> 
+I'm passionate about creating intuitive and visually appealing websites.<br>  
+🌱 Currently focused on improving my frontend skills and learning advanced React concepts. <br> 
 🎯 My goal is to become a full-stack web developer.
 
 
@@ -22,11 +22,14 @@ I'm passionate about creating intuitive and visually appealing websites.
 
  <div align="center"> 
    <h1>Technologies & Tools</h1>
-     
-- 🌐 Frontend: HTML5, CSS3, JavaScript, React  
-- 🛠️ Backend: Node.js, PHP  
-- 🗄️ Database: MySQL, PostgreSQL  
-- 🎨 Design Tools: Figma, Adobe XD
+      <ul>
+          <li>🌐 Frontend: HTML5, CSS3, JavaScript, React  </li>
+          <li> 🛠️ Backend: Node.js, PHP  </li>
+          <li>🗄️ Database: MySQL, </li>
+          <li>🎨 Design Tools: Figma, </li>
+      </ul>
+- 
+
 
   </a>
  </div>
@@ -34,5 +37,5 @@ I'm passionate about creating intuitive and visually appealing websites.
  </br>
 
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,react,mysql,wordpress,figma,typescript,nodejs,python,pycharm,php,xampp" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,react,mysql,figma,typescript,nodejs,php,xampp" />
  </div>
