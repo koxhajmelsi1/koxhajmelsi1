@@ -18,7 +18,7 @@ I'm passionate about creating intuitive and visually appealing websites.<br/>
 
  <br/>
 
-  <hr/>
+
 
  <div align="center"> 
    <h1>Technologies & Tools</h1>
@@ -34,7 +34,7 @@ I'm passionate about creating intuitive and visually appealing websites.<br/>
  </div>
 
  </br>
-
+<hr/>
  <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,react,mysql,figma,typescript,nodejs,php,xampp" />
  </div>
