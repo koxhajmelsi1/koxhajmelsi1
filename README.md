@@ -22,13 +22,13 @@ I'm passionate about creating intuitive and visually appealing websites.<br>
 
  <div align="center"> 
    <h1>Technologies & Tools</h1>
-      <ul>
-          <li>🌐 Frontend: HTML5, CSS3, JavaScript, React  </li>
-          <li> 🛠️ Backend: Node.js, PHP  </li>
-          <li>🗄️ Database: MySQL, </li>
-          <li>🎨 Design Tools: Figma, </li>
-      </ul>
-- 
+     
+        🌐 Frontend: HTML5, CSS3, JavaScript, React <br>  
+         🛠️ Backend: Node.js, PHP  <br>
+         🗄️ Database: MySQL   <br>
+         🎨 Design Tools: Figma
+     
+
 
 
   </a>
