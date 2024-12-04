@@ -9,19 +9,25 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **personal website**
- 
- 🌱 I’m currently learning **React**
+  <h1>About Me</h1>
+👋 Hi, I'm Melsi!  
+I'm passionate about creating intuitive and visually appealing websites.  
+🌱 Currently focused on improving my frontend skills and learning advanced React concepts.  
+🎯 My goal is to become a full-stack web developer.
 
-⚡ I'm interested in **web development**
 
  </div>
 
  </br>
 
  <div align="center"> 
-  <a href="mailto:koxhajmelsi1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+   <h1>Technologies & Tools</h1>
+     
+- 🌐 Frontend: HTML5, CSS3, JavaScript, React  
+- 🛠️ Backend: Node.js, PHP  
+- 🗄️ Database: MySQL, PostgreSQL  
+- 🎨 Design Tools: Figma, Adobe XD
+
   </a>
  </div>
 
